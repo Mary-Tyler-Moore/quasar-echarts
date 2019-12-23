@@ -22,3 +22,10 @@ quasar dev
 quasar build
 ```
 
+### Netlify Build Settings
+## Build command:
+```bash
+quasar build -m spa
+```
+## Publish directory:
+dist/spa
