@@ -1,6 +1,6 @@
 # Quasar ECharts (quasar-echarts)
 
-Dashboard using Quasar and ECharts
+A cool dashboard using Quasar and ECharts. I would like to add some GL examples from https://www.echartsjs.com/examples/en/index.html#chart-type-globe
 
 ## Demo
 
